@@ -9,45 +9,15 @@ I enjoy building practical projects, working with APIs, and learning how scalabl
 
 Languages
 
-Python
-
-JavaScript
-
+<p align="left"> <img src="https://skillicons.dev/icons?i=python,javascript" /> </p>
 Frontend
-
-HTML5, CSS3, Tailwind CSS
-
-JavaScript (ES6+)
-
-React.js
-
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" /> </p>
 Backend
-
-Node.js
-
-Express.js
-
-REST APIs
-
-Django (Learning)
-
-AI & Automation
-
-Google Gemini API
-
-OpenAI API
-
-Tools & Concepts
-
-Git & GitHub
-
-VS Code
-
-CRUD Operations
-
-API Integration
-
-MVC / MVT Basics
+<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,django" /> </p>
+AI & APIs
+<p align="left"> <img src="https://skillicons.dev/icons?i=openai" /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Gemini_logo.svg" height="48"/> </p>
+Tools
+<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
 
 🚀 Projects
 🔹 AI Study Helper – Full Stack AI Web App
