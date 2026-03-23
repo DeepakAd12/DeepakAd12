@@ -1,80 +1,18 @@
-👋 Hi, I’m Deepak Adhikari
+# 💫 About Me:
+I’m currently working on<br>👉 Building a full-stack Job Portal using Django, React, and MongoDB<br>👉 Improving backend APIs and system design<br><br>I’m looking to collaborate on<br>🤝 Backend projects (Django / Node.js)<br>🤝 AI-integrated web applications<br><br>I’m looking for help with<br>💡 Scaling backend systems and production-level architecture<br>💡 Integrating AI into real-world applications<br><br>I’m currently learning<br>🌱 Advanced Django & REST APIs<br>🌱 System Design & Backend Optimization<br>🌱 AI integration in web apps<br><br>Ask me about<br>💬 Django, REST APIs, Backend Development<br>💬 Building real-world projects from scratch<br><br>Fun fact<br>⚡ I enjoy solving real backend problems and turning ideas into working products
 
-I’m a backend-focused developer with hands-on experience in building real-world projects.
-I’m currently learning Django and strengthening my backend development skills, while improving how systems work behind the scenes.
 
-I enjoy building practical projects, working with APIs, and learning how scalable backend systems are designed.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deepak-adhikari-32a86a326) 
 
-🛠 Tech Stack
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=DeepakAd12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DeepakAd12&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakAd12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-Languages
+---
+[![](https://visitcount.itsvg.in/api?id=DeepakAd12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,javascript" /> </p>
-Frontend
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,react" /> </p>
-Backend
-<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,django" /> </p>
-AI & APIs
-<p align="left"> <img src="https://skillicons.dev/icons?i=openai" /> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_Gemini_logo.svg" height="48"/> </p>
-Tools
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
-
-🚀 Projects
-🔹 AI Study Helper – Full Stack AI Web App
-
-AI-powered web app for simplified explanations and summaries
-
-Built REST APIs using Node.js and Express
-
-Integrated Google Gemini API
-
-Frontend deployed on Netlify, backend on Render
-
-🔗 Live: https://lustrous-puppy-1e77a6.netlify.app
-
-🔗 GitHub: https://github.com/DeepakAd12/Ai--Study-Helper
-
-🔹 Personal Assistant CLI (Python)
-
-Command-line assistant with secure login
-
-Encrypted notes using Fernet (SHA-256 authentication)
-
-Features: weather, jokes, date/time, Google launcher
-
-🔗 GitHub: https://github.com/DeepakAd12/Personal-assistant.git
-
-🔹 Personal Portfolio Website
-
-Responsive portfolio with clean UI
-
-Showcases projects, skills, and contact details
-
-Deployed using Netlify
-
-🔗 Live: https://effulgent-melba-668a72.netlify.app
-
-🔗 GitHub: https://github.com/DeepakAd12/Portfolio-site
-
-📫 Contact Me
-
-📧 Email: adhikarideepak719@gmail.com
-
-💼 LinkedIn: https://www.linkedin.com/in/deepak-adhikari
-
-🧑‍💻 GitHub: https://github.com/DeepakAd12
-
-<!--
-**DeepakAd12/DeepakAd12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
