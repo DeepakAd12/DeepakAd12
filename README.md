@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on<br>👉 Building a full-stack Job Portal using Django, React, and MongoDB<br>👉 Improving backend APIs and system design<br><br>I’m looking to collaborate on<br>🤝 Backend projects (Django / Node.js)<br>🤝 AI-integrated web applications<br><br>I’m looking for help with<br>💡 Scaling backend systems and production-level architecture<br>💡 Integrating AI into real-world applications<br><br>I’m currently learning<br>🌱 Advanced Django & REST APIs<br>🌱 System Design & Backend Optimization<br>🌱 AI integration in web apps<br><br>Ask me about<br>💬 Django, REST APIs, Backend Development<br>💬 Building real-world projects from scratch<br><br>Fun fact<br>⚡ I enjoy solving real backend problems and turning ideas into working products
+I’m currently working on<br>👉 Building a full-stack Job Portal using Django, React, and MongoDB<br>👉 Improving backend APIs and system design<br><br>I’m looking to collaborate on<br>🤝 Backend projects (Django / Node.js)<br>🤝 
 
 
 ## 🌐 Socials:
