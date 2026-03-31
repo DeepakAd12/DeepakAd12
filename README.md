@@ -41,15 +41,8 @@ I focus on building secure, scalable systems with clean architecture and real-wo
 
 ---
 
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=DeepakAd12&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakAd12&layout=compact)
-
----
-
 ## 📫 Connect With Me
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:adhikarideepak719@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](PASTE_YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deepak-adhikari-32a86a326/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/DeepakAd12)
